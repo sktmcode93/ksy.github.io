@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sktmcode93/ksy.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/sktmcode93/ksy.github.io/static/js/main.42017521.js",
+    "static/js/787.7c4fc8d6.chunk.js": "/sktmcode93/ksy.github.io/static/js/787.7c4fc8d6.chunk.js",
+    "static/media/logo.svg": "/sktmcode93/ksy.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sktmcode93/ksy.github.io/index.html",
+    "main.073c9b0a.css.map": "/sktmcode93/ksy.github.io/static/css/main.073c9b0a.css.map",
+    "main.42017521.js.map": "/sktmcode93/ksy.github.io/static/js/main.42017521.js.map",
+    "787.7c4fc8d6.chunk.js.map": "/sktmcode93/ksy.github.io/static/js/787.7c4fc8d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.42017521.js"
+  ]
+}
